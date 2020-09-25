@@ -1,0 +1,169 @@
+.elementor-column {
+    min-height: 0px;
+}
+
+.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
+    padding: 0px;
+}
+.header {
+    background-color: #1658CC;
+}
+   
+.site-navigation a {
+    color: #fff;
+}
+
+.site-navigation ul li.current_page_item a {
+    color: #fff !important;
+}
+.logo .logo-bg {
+    height: auto !important;
+}
+.elementor-testimonial-wrapper .elementor-testimonial-meta {
+    width: 25% !important;
+    line-height: 1;
+}
+.elementor-widget-testimonial .elementor-testimonial-content {
+    width: 75%;
+    float: right;
+    font-size: 12px !important;
+    line-height: 1.4 !important;
+    color: #222;
+}
+.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-details {
+    display: none !important;
+}
+.elementor-widget-heading .elementor-heading-title.elementor-size-medium {
+    font-size: 21px;
+    font-weight: 400;
+    text-align: center;
+    background: #1658CC;
+    color: #fff;
+    line-height: 1.8;
+}
+.elementor-element-3290f5dc .elementor-widget-wrap {
+    border: 2px solid #1658CC;
+    margin-bottom: 40px;
+}
+.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image img {
+    width: 80px;
+    height: 80px;
+    border-radius: 0px;
+}
+
+
+
+
+
+.vl {
+    border-left: 6px solid green;
+    height: 150px;
+    width:100%;
+  }
+  .top_banner {
+  color: white;
+  border-left: 4px solid #fff;
+  padding: 0px 20px;
+  border-right: 4px solid #fff;
+}
+/* Slideshow container */
+.slideshow-container {
+position: relative;
+/* background:; */
+padding: 0px 60px;
+}
+
+/* Slides */
+.mySlides {
+display: none;
+padding: 0px;
+text-align: center;
+color: #fff;
+}
+
+.mySlides p {
+  border-left: 4px solid #eee;
+  border-right: 4px solid #eee;
+  padding: 10px 20px;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+cursor: pointer;
+position: absolute;
+top: 50%;
+width: auto;
+margin-top: -30px;
+padding: 16px;
+color: #fff;
+font-weight: bold;
+font-size: 20px;
+border-radius: 0 3px 3px 0;
+user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+position: absolute;
+right: 0;
+border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+/* background-color:; */
+color: white;
+}
+
+/* The dot/bullet/indicator container */
+.dot-container {
+  text-align: center;
+  padding: 20px;
+  /* background: ; */
+  display: none;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+cursor: pointer;
+height: 15px;
+width: 15px;
+margin: 0 2px;
+background-color: #bbb;
+border-radius: 50%;
+display: inline-block;
+transition: background-color 0.6s ease;
+}
+
+/* Add a background color to the active dot/circle */
+.active, .dot:hover {
+background-color: #717171;
+}
+
+/* Add an italic font style to all quotes */
+q {font-style: italic;}
+
+/* Add a blue color to the author */
+.author {color: cornflowerblue;}
+
+.wpcf7-form input{
+    margin-top: 5px !important;
+    box-shadow: none !important;
+    width: 60% !important;
+}
+
+.wpcf7-form textarea{
+    margin-top: 5px !important;
+    box-shadow: none !important;
+    width: 80% !important;
+}
+
+.wpcf7-submit{
+    position: absolute;
+    left: 0;
+    width: auto !important;
+}
+
+.site-navigation .menu a:hover, .site-navigation .menu a:focus {
+    color: #ccc !important;
+}
